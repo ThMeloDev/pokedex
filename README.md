@@ -8,10 +8,13 @@
 <div style="display:inline_block" align="center">
 This is a Trainer
 <img align="center" src='https://www.pngmart.com/files/2/Pokemon-Ash-PNG-Transparent-Image.png' width="150">
-This ia a Pokeball
-<img align="center" src='https://www.pngmart.com/files/2/Pokeball-PNG-Photos.png' width="150">
-This is a Pokemon
-<img align="center" src='https://www.pngmart.com/files/2/Pikachu-PNG-Transparent-Image.png' width="150">
+</div>
+<div style='display:inline_block' align='center'>
+This ia a Pokeball &nbsp 
+<img align="center" src='https://www.pngmart.com/files/2/Pokeball-PNG-Photos.png' width="50">
+&nbsp  &nbsp
+This is a Pokemon &nbsp &nbsp
+<img align="center" src='https://www.pngmart.com/files/2/Pikachu-PNG-HD.png' width="150">
 </div>
 <br>
 <br>
