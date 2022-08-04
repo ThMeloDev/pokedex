@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #C9C9C9;
+}
+
+.App {
+  margin: 50px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pokemonTitle {
+  max-width: 300px;
+}
+
+.pokemonChoose {
+  margin: 50px 0;
+  text-transform: capitalize;
+}
+
+.typeChoose {
+  display: flex;
+  width: 100vw;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.arrow {
+  max-width: 80px;
+}
+
+.arrowLeft {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
