@@ -8,6 +8,7 @@ import Arrow from './assets/arrow.svg'
 //Components
 import Search from './components/Search';
 import TypeChoose from './components/TypeChoose';
+import Pokemon from './components/Pokemon';
 
 
 function App() {
@@ -23,6 +24,9 @@ function App() {
         <TypeChoose />
         <TypeChoose />
         <img src={Arrow} alt="Arrow" className='arrow' />
+      </div>
+      <div className="pokemons">
+        <Pokemon id='001' name='Bulbasaur' type={['grass','poison']}  />
       </div>
     </div>
   );

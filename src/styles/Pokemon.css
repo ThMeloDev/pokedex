@@ -1,0 +1,120 @@
+.containerPokemon{
+  width: 150px;
+  height: 150px;
+  display: flex;
+  border-radius: 20px;
+  flex-direction: column;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.id{
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 12px 0 0 12px;
+  color: white;
+}
+
+img{
+  max-width: 80px;
+}
+
+.name{
+  text-transform: capitalize;
+  font-size: 16px;
+  color: white;
+}
+
+.bottomDiv{
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px 6px 15px  ;
+  bottom:0;
+  width: 100%;
+}
+
+.types{
+  display: flex;
+  flex-grow: 1;
+  margin-left: 15px;
+  justify-content: space-around;
+}
+
+.type{
+  max-width: 15px;
+}
+
+.background-bug{
+  background-color: #93BB3A;
+}
+
+.background-dark{
+  background-color: #595761;
+}
+
+.background-dragon{
+  background-color: #176CC5;
+}
+
+.background-electric{
+  background-color: #F1D85A;
+}
+
+.background-fairy{
+  background-color: #ED93E4;
+}
+
+.background-fighting{
+  background-color: #D14461;
+}
+
+.background-fire{
+  background-color: #F9A555;
+}
+
+.background-wind{
+  background-color: #A2BCEA;
+}
+
+.background-ghost{
+  background-color: #606FBA;
+}
+
+.background-grass{
+  background-color: #63BC5D;
+}
+
+.background-ground{
+  background-color: #D87C52;
+}
+
+.background-ice{
+  background-color: #79D0C1;
+}
+
+.background-normal{
+  background-color: #A0A29F;
+}
+
+.background-poison{
+  background-color: #B667CD;
+}
+
+.background-psychic{
+  background-color: #F88684;
+}
+
+.background-rock{
+  background-color: '#C9BB8D';
+}
+
+.background-steel{
+  background-color: '#5995A2';
+}
+
+.background-water{
+  background-color: '#579EDD';
+}
