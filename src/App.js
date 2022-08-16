@@ -9,6 +9,7 @@ import Arrow from './assets/arrow.svg'
 import Search from './components/Search';
 import TypeChoose from './components/TypeChoose';
 import Pokemon from './components/Pokemon';
+import SearchPokemon from './components/api';
 
 
 function App() {
